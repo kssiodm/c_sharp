@@ -1,0 +1,14 @@
+C:\Users\Public\cassio\c_sharp\bin\Debug\net7.0\c_sharp.exe
+C:\Users\Public\cassio\c_sharp\bin\Debug\net7.0\c_sharp.deps.json
+C:\Users\Public\cassio\c_sharp\bin\Debug\net7.0\c_sharp.runtimeconfig.json
+C:\Users\Public\cassio\c_sharp\bin\Debug\net7.0\c_sharp.dll
+C:\Users\Public\cassio\c_sharp\bin\Debug\net7.0\c_sharp.pdb
+C:\Users\Public\cassio\c_sharp\obj\Debug\net7.0\c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\cassio\c_sharp\obj\Debug\net7.0\c_sharp.AssemblyInfoInputs.cache
+C:\Users\Public\cassio\c_sharp\obj\Debug\net7.0\c_sharp.AssemblyInfo.cs
+C:\Users\Public\cassio\c_sharp\obj\Debug\net7.0\c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Public\cassio\c_sharp\obj\Debug\net7.0\c_sharp.dll
+C:\Users\Public\cassio\c_sharp\obj\Debug\net7.0\refint\c_sharp.dll
+C:\Users\Public\cassio\c_sharp\obj\Debug\net7.0\c_sharp.pdb
+C:\Users\Public\cassio\c_sharp\obj\Debug\net7.0\c_sharp.genruntimeconfig.cache
+C:\Users\Public\cassio\c_sharp\obj\Debug\net7.0\ref\c_sharp.dll
