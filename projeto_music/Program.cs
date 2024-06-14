@@ -1,15 +1,21 @@
-﻿Musica musica1 = new Musica();
-musica1.nome = "Believer";
-musica1.artista = "Imagine dragons";
-musica1.duracao = 439;
-musica1.disponivel = true;
+﻿Album albumDoQueen = new Album();
+albumDoQueen.Nome = "A night at the opera";
 
+
+
+Musica musica1 = new Musica();
+musica1.Nome = "Love of my life";
+musica1.Duracao = 213;
 
 Musica musica2 = new Musica();
-musica2.nome = "Gangsta's paradise";
-musica2.artista = "Coolio";
-musica2.duracao = 569;
-musica2.disponivel = false;
+musica2.Nome = "Bohemiam Rhapsody";
+musica2.Duracao = 364;
 
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
+
+albumDoQueen.AdicionarMusica(musica1);
+albumDoQueen.AdicionarMusica(musica2);
+
+albumDoQueen.ExibirMusicasAlbum();
+
+// musica1.ExibirFichaTecnica();
+// musica2.ExibirFichaTecnica();
